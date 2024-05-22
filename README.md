@@ -2,13 +2,12 @@
 <p align="center">
   <a href="https://web.facebook.com/profile.php?id=100080122707224">Facebook</a> •
   <a href="https://www.instagram.com/abdulhafizh_k/">Instagram</a> •
-  <a href="https://github.com/abdulhafizk">Github</a> •
+  <a href="https://github.com/abdulhafizk">Github</a>
 </p>
 
 
 - 🔭 I’m currently working at [Islamic Center Hubbul Khoir](https://hubbulkhoir.sch.id/)
 - 💬 Ask me about **HTML, CSS, Javascript, C++ and Python**
-<!-- - 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter -->
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
 -------
