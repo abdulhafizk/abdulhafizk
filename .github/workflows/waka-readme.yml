@@ -17,6 +17,6 @@ jobs:
           ### content
           BLOCKS: =>
           CODE_LANG: HTML CSS Javascript C++ Python
-          IGNORED_LANGUAGES: Markdown Git Gitignore
+          IGNORED_LANGUAGES: Markdown Git GitIgnore_file
           SHOW_TIME: true 
           SHOW_TOTAL: true 
