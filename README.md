@@ -12,6 +12,7 @@
 
 -------
 
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
 ```HTML, CSS, Javascript, C++, Python,
