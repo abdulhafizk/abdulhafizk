@@ -15,7 +15,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
-```HTML, CSS, Javascript, C++, Python,
+```HTML, CSS, Javascript, C++, Python.
 Total Time: 1 hr 58 mins
 
 Python           1 hr 28 mins    >>>>>>>>>>>>>>>>>>>======   75.05 %
