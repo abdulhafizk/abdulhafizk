@@ -16,13 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```HTML, CSS, Javascript, C++, Python.
-Total Time: 2 hrs 53 mins
+Total Time: 1 hr
 
-Python           1 hr 28 mins    >>>>>>>>>>>>>============   51.23 %
-JavaScript       53 mins         >>>>>>>>=================   30.80 %
-Markdown         20 mins         >>>======================   11.52 %
-HTML             4 mins          >========================   02.49 %
-YAML             3 mins          =========================   01.84 %
+JavaScript   53 mins         >>>>>>>>>>>>>>>>>>>>>>===   88.34 %
+HTML         4 mins          >>=======================   07.13 %
+PHP          2 mins          >========================   03.89 %
+Other        0 secs          =========================   00.39 %
+Python       0 secs          =========================   00.13 %
 ```
 
 <!--END_SECTION:waka-->
