@@ -16,6 +16,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           ### content
           BLOCKS: =>
-          CODE_LANG: HTML, CSS, Javascript, C++, Python.
-          IGNORED_LANGUAGES: Markdown, Git, Gitignore File.
+          CODE_LANG: HTML, CSS, Javascript, C++, Python, Jsx, Json, Lock.
+          IGNORED_LANGUAGES: Markdown, Git, Gitignore File, Gitignore.
           SHOW_TOTAL: true 
