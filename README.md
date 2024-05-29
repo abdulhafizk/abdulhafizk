@@ -15,14 +15,14 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
-```HTML, CSS, Javascript, C++, Python.
-Total Time: 1 hr
+```HTML, CSS, Javascript, C++, Python, Jsx, Json, Lock.
+Total Time: 1 hr 10 mins
 
-JavaScript   53 mins         >>>>>>>>>>>>>>>>>>>>>>===   88.34 %
-HTML         4 mins          >>=======================   07.13 %
-PHP          2 mins          >========================   03.89 %
-Other        0 secs          =========================   00.39 %
-Python       0 secs          =========================   00.13 %
+JavaScript   53 mins         >>>>>>>>>>>>>>>>>>>======   75.29 %
+Python       10 mins         >>>>=====================   14.89 %
+HTML         4 mins          >>=======================   06.08 %
+PHP          2 mins          >========================   03.31 %
+Other        0 secs          =========================   00.33 %
 ```
 
 <!--END_SECTION:waka-->
