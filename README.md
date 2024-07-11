@@ -16,13 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```HTML, CSS, Javascript, C++, Python, Jsx, Json, Lock.
-Total Time: 10 hrs 46 mins
+Total Time: 14 hrs 52 mins
 
-JavaScript    8 hrs 41 mins   >>>>>>>>>>>>>>>>>>>>=====   79.70 %
-HTML          1 hr 7 mins     >>>======================   10.38 %
-CSS           26 mins         >========================   04.06 %
-JSON          16 mins         >========================   02.58 %
-Other         7 mins          =========================   01.16 %
+JavaScript    9 hrs 14 mins   >>>>>>>>>>>>>>>==========   59.41 %
+TypeScript    3 hrs 36 mins   >>>>>>===================   23.22 %
+HTML          47 mins         >========================   05.08 %
+Other         40 mins         >========================   04.29 %
+CSS           37 mins         >========================   04.00 %
 ```
 
 <!--END_SECTION:waka-->
