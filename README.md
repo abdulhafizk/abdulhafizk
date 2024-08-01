@@ -18,8 +18,8 @@
 ```HTML, CSS, Javascript, C++, Python, Jsx, Json, Lock.
 Total Time: 1 hr 16 mins
 
-TypeScript   1 hr 14 mins    >>>>>>>>>>>>>>>>>>>>>>>>=   97.21 %
-JSON         1 min           >========================   02.52 %
+TypeScript   1 hr 13 mins    >>>>>>>>>>>>>>>>>>>>>>>>=   97.20 %
+JSON         1 min           >========================   02.54 %
 CSS          0 secs          =========================   00.12 %
 Git Config   0 secs          =========================   00.11 %
 JavaScript   0 secs          =========================   00.04 %
