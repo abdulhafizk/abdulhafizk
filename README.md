@@ -16,9 +16,10 @@
 <!--START_SECTION:waka-->
 
 ```HTML, CSS, Javascript, C++, Python, Jsx, Json, Lock.
-Total Time: 0 secs
+Total Time: 4 mins
 
-No activity tracked
+Python   4 mins          >>>>>>>>>>>>>>>>>>>>>>===   89.85 %
+Text     0 secs          >>>======================   10.15 %
 ```
 
 <!--END_SECTION:waka-->
