@@ -16,11 +16,9 @@
 <!--START_SECTION:waka-->
 
 ```HTML, CSS, Javascript, C++, Python, Jsx, Json, Lock.
-Total Time: 40 mins
+Total Time: 2 mins
 
-Bash     27 mins         >>>>>>>>>>>>>>>>>========   67.61 %
-Python   12 mins         >>>>>>>>=================   31.25 %
-Other    0 secs          =========================   01.14 %
+Bash   2 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
