@@ -16,9 +16,10 @@
 <!--START_SECTION:waka-->
 
 ```HTML, CSS, Javascript, C++, Python, Jsx, Json, Lock.
-Total Time: 0 secs
+Total Time: 26 mins
 
-No activity tracked
+PowerShell   16 mins         >>>>>>>>>>>>>>>==========   59.93 %
+JSON         10 mins         >>>>>>>>>>===============   40.07 %
 ```
 
 <!--END_SECTION:waka-->
