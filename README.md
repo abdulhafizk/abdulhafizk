@@ -18,8 +18,9 @@
 ```HTML, CSS, Javascript, C++, Python, Jsx, Json, Lock.
 Total Time: 26 mins
 
-PowerShell   16 mins         >>>>>>>>>>>>>>>==========   59.93 %
-JSON         10 mins         >>>>>>>>>>===============   40.07 %
+PowerShell   16 mins         >>>>>>>>>>>>>>>==========   59.80 %
+JSON         10 mins         >>>>>>>>>>===============   39.98 %
+Python       0 secs          =========================   00.22 %
 ```
 
 <!--END_SECTION:waka-->
