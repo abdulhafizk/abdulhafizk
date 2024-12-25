@@ -10,13 +10,13 @@
 - 💬 Ask me about **HTML, CSS, Javascript, C++ and Python**
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
+<a href="https://discord.com/users/1162966552161820743" target="_blank" rel="nofollow">
+   <img src="https://lanyard-profile-readme.vercel.app/api/414304208649453568?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="right">
+</a>
+
 ### Support me
 
 <a href="https://trakteer.id/Masycodev" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-blue-2.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
-
-<a href="https://discord.com/users/414304208649453568" target="_blank" rel="nofollow">
-   <img src="https://lanyard-profile-readme.vercel.app/api/414304208649453568?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="right">
-</a>
 
 -------
 
