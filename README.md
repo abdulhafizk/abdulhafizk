@@ -11,7 +11,7 @@
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
 <a href="https://discord.com/users/1162966552161820743" target="_blank" rel="nofollow">
-   <img src="https://lanyard-profile-readme.vercel.app/api/414304208649453568?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="right">
+   <img src="https://lanyard-profile-readme.vercel.app/api/1162966552161820743?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="right">
 </a>
 
 ### Support me
